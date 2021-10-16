@@ -13,6 +13,7 @@ public class first {
 		Scanner sc1 = new Scanner(System.in);
 		System.out.println("This is the first java program");
 		System.out.println("Enter a name");
+		System.out.println("hello this is our project");
 		
 		String name = sc.nextLine();
 		
@@ -24,8 +25,6 @@ public class first {
 		System.out.println("Age: "+age);
 		
 		System.out.println("Age + 10 is " + sum(age, 10));
-		
-		
-		
+
 	}
 }
